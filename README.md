@@ -6,7 +6,7 @@ Português
 
 Descrição
 
-Este repositório contém projetos e ferramentas desenvolvidos pelo membros do grupo Sandecos CrewAI. Nossa missão é colaborar e compartilhar conhecimentos para criar soluções inovadoras.
+Este repositório contém projetos e ferramentas desenvolvidos pelos membros do grupo Sandecos CrewAI. Nossa missão é colaborar e compartilhar conhecimentos para criar soluções inovadoras.
 
 Estrutura do Repositório
 
@@ -34,7 +34,7 @@ English
 
 Description
 
-This repository contains projects and tools developed by themwmbers of Sandecos’s CrewAI group. Our mission is to collaborate and share knowledge to create innovative solutions.
+This repository contains projects and tools developed by members of Sandecos’s CrewAI group. Our mission is to collaborate and share knowledge to create innovative solutions.
 
 Repository Structure
 
